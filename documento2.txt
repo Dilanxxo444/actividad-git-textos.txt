@@ -1,1 +1,13 @@
-Segunda parte del trabajo con notas y conclusiones.
+==================================================
+  BITACORA DE PRACTICA Y CONCLUSIONES PERSONALES
+==================================================
+
+Reflexion sobre el flujo de trabajo:
+Al principio me pareció un poco enredado el tema de las llaves, la autenticacion y la consola, pero una vez agarras el ritmo con `git add`, `git commit` y `git push`, todo fluye super natural.
+
+Conclusiones claves de la practica:
+1. Redactar commits claros ayuda un montón a entender que se hizo en cada etapa sin tener que adivinar.
+2. Trabajar directamente desde la terminal da muchisimo mas control sobre los archivos.
+3. Este sistema es perfecto para gestionar documentos, informes o cualquier proyecto sin miedo a sobreescribir o perder informacion.
+
+¡A seguir practicando y puliendo el flujo de trabajo en los proximos ejercicios! 🚀

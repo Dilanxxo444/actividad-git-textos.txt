@@ -1,2 +1,14 @@
-Este es el primer documento de mi actividad.
-Añadiendo una nueva línea a la introducción.
+==================================================
+  NOTAS Y APUNTES DE CLASE - CONTROL DE CAMBIOS
+==================================================
+
+¡Arrancamos con toda esta actividad! La idea de este archivo es llevar un registro claro de lo que voy aprendiendo y probando en el desarrollo de la materia.
+
+- [x] Repaso de comandos basicos de terminal y navegacion.
+- [x] Manejo de repositorios locales y remotos en GitHub.
+- [ ] Aplicar estos mismos conceptos para organizar los archivos de mis proyectos personales y trabajos de campo.
+
+Notas importantes:
+* Es clave mantener el historial bien documentado para no perder rastreabilidad de los cambios.
+* Siempre revisar con `git status` antes de preparar cualquier cambio.
+* ¡Cada paso cuenta para dominar estas herramientas al 100%!
