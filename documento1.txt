@@ -1,0 +1,14 @@
+==================================================
+  NOTAS Y APUNTES DE CLASE - CONTROL DE CAMBIOS
+==================================================
+
+Apuntes de la actividad para llevar el control de cambios y pruebas de comandos.
+
+- [x] Repaso de comandos basicos de terminal y navegacion en git.
+- [x] Manejo de repositorios locales y sincronización con GitHub.
+- [ ] Organizar mas adelante los archivos de proyectos y trabajos de campo con este mismo flujo.
+
+Notas:
+* Es importante mantener los commits claros para no perder el hilo de las entregas.
+* Revisar siempre con `git status` antes de hacer el add.
+* Faltan algunos detalles de la guia pero ahi va quedando listo.

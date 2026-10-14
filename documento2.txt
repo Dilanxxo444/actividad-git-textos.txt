@@ -3,7 +3,7 @@
 ==================================================
 
 Notas sobre el trabajo con Git:
-Al comienzo fue un poco enredado el tema de las llaves, los permisos y la consola, pero ya con la practica de git add, git commit y git push se vuelve un proceso bastante mecanico.
+Al comienzo fue un poco enredado el tema de las llaves, los permisos y la consola, pero ya con la practica de `git add`, `git commit` y `git push` se vuelve un proceso bastante mecanico.
 
 Puntos a tener en cuenta:
 1. Poner mensajes de commit breves y directos para no perder tiempo adivinando que se cambio.
